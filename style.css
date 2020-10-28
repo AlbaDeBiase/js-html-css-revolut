@@ -22,7 +22,7 @@ header {
 .header-left {
     /* width: 200px; */
     /* height: 100%; */
-    background-color: yellow;
+    /* background-color: yellow; */
 }
 
 .menu-left li {
@@ -33,7 +33,7 @@ header {
 }
 
 .header-right {
-    background-color: blue;
+    /* background-color: blue; */
 display: inline;
     /* width: 200px; */
     /* height: 100%; */
@@ -55,7 +55,7 @@ display: inline;
 }
 
 .submenu, .submenu1, .submenu2, .submenu3{
-    color:red;
+    /* color:red; */
     display: none;
     /* position: absolute;
     top: 50px;
